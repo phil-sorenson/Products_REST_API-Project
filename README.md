@@ -10,12 +10,12 @@ Task: Create a Django REST API connected to a MySQL database allowing a frontend
 Total points: /55 unweighted -> /5 weighted
 (/5 points): As a developer, I want to make good, consistent commits.
 
-(/2.5 points) As a developer, I want to create a Product model
+<!-- (/2.5 points) As a developer, I want to create a Product model
 Property names must be in snake_case and match the following exactly!
 • title - CharField
 • description - CharField
 • price - DecimalField
-• inventory_quantity – IntegerField
+• inventory_quantity – IntegerField -->
 
 (/2.5 points) As a developer, I want my API to serve content on the following urls
 paths:

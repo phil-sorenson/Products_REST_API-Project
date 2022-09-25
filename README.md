@@ -23,11 +23,11 @@ Paths must match these exactly!
 • ‘127.0.0.1:8000/api/products/'
 • ‘127.0.0.1:8000/api/products/<int:pk>/’
 
-(/15 points) As a developer, I want to build a REST web API in Django REST
-Framework, so that I can make HTTP requests interact with the data set.
+<!-- (/15 points) As a developer, I want to build a REST web API in Django REST
+Framework, so that I can make HTTP requests interact with the data set. -->
 
-(/5 points) As a developer, I want to create a GET endpoint the responds with a
-200 success status code and all of the products within the Product table.
+<!-- (/5 points) As a developer, I want to create a GET endpoint the responds with a
+200 success status code and all of the products within the Product table. -->
 
 (/5 points) As a developer, I want to create a GET by id endpoint that does the
 following things:

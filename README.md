@@ -7,8 +7,8 @@ Learning Objectives: Understand how to build a Web API for a full-stack applicat
 Task: Create a Django REST API connected to a MySQL database allowing a frontend application to POST comments and replies to the MySQL database relative to the video the user is currently watching.
 <><><><><><><><><><><><><><><><><><><><><><><><>
 
-Total points: /55 unweighted -> /5 weighted
-(/5 points): As a developer, I want to make good, consistent commits.
+<!-- Total points: /55 unweighted -> /5 weighted
+(/5 points): As a developer, I want to make good, consistent commits. -->
 
 <!-- (/2.5 points) As a developer, I want to create a Product model
 Property names must be in snake_case and match the following exactly!
@@ -17,11 +17,11 @@ Property names must be in snake_case and match the following exactly!
 • price - DecimalField
 • inventory_quantity – IntegerField -->
 
-(/2.5 points) As a developer, I want my API to serve content on the following urls
+<!-- (/2.5 points) As a developer, I want my API to serve content on the following urls
 paths:
 Paths must match these exactly!
 • ‘127.0.0.1:8000/api/products/'
-• ‘127.0.0.1:8000/api/products/<int:pk>/’
+• ‘127.0.0.1:8000/api/products/<int:pk>/’ -->
 
 <!-- (/15 points) As a developer, I want to build a REST web API in Django REST
 Framework, so that I can make HTTP requests interact with the data set. -->
